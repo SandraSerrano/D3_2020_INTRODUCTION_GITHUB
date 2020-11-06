@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Barlow&family=Josefin+Sans:wght@500&display=swap');
+
+body {
+  font-family: 'Barlow', sans-serif;
+}
+
+h1 {
+  font-family: 'Anton', sans-serif;
+  margin-bottom: 1em;
+  font-size: 6em;
+}
+
+h2 {
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-size: 4em;
+
+}
+
+p {
+  margin-bottom: 0.25;
+
+}

@@ -1,0 +1,77 @@
+figure {
+  ;
+}
+figure img {;
+}
+
+header {
+  background: rgb(0, 213, 252);
+  display: flex;
+  align-items: center;
+}
+
+nav{
+width: 100%;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+nav a {
+  display: block;
+  background: rgb(255, 255, 255);
+  padding : 1em;
+}
+
+
+section {
+  min-height: 98vh;
+  box-shadow: 10px 20px 61px -11px
+  rgba(84, 75, 84, 0.67);
+  padding: 2em;
+
+}
+
+/* Styles pour section 01 :  */
+
+#section-01  {
+  background: url('https://cdn.artphotolimited.com/images/5a8a691a00730b4df396c365/1000x1000/la-foret-enchantee.jpg') top center no-repeat ;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+
+}
+
+#section-02 {
+  background-color: #59b2a2;
+
+
+
+}
+
+
+#section-03 p {
+  width: 200px;
+  padding: 40px;
+  margin: auto;
+  background-color: #59b2a2
+  
+
+}
+
+
+#section-04 {
+  background-color: #59b2a2
+
+}
+
+#section-05 {
+  background-color: #59b2a2
+}
